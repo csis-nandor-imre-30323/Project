@@ -1,0 +1,80 @@
+[ {
+  "rooms" : [ {
+    "roomNumber" : 210,
+    "reservations" : [ ],
+    "price" : 200,
+    "type" : 2
+  }, {
+    "roomNumber" : 125,
+    "reservations" : [ ],
+    "price" : 350,
+    "type" : 1
+  }, {
+    "roomNumber" : 87,
+    "reservations" : [ ],
+    "price" : 300,
+    "type" : 1
+  }, {
+    "roomNumber" : 12,
+    "reservations" : [ ],
+    "price" : 400,
+    "type" : 3
+  }, {
+    "roomNumber" : 310,
+    "reservations" : [ ],
+    "price" : 250,
+    "type" : 2
+  } ],
+  "latitude" : 46.764654252624204,
+  "checkInTime" : "18:00",
+  "name" : "Hotel Ramada",
+  "feedbacks" : [ ],
+  "id" : 1,
+  "longitude" : 23.598674125224626
+}, {
+  "rooms" : [ {
+    "roomNumber" : 41,
+    "reservations" : [ ],
+    "price" : 240,
+    "type" : 3
+  }, {
+    "roomNumber" : 42,
+    "reservations" : [ ],
+    "price" : 250,
+    "type" : 3
+  }, {
+    "roomNumber" : 60,
+    "reservations" : [ ],
+    "price" : 300,
+    "type" : 1
+  } ],
+  "latitude" : 46.7522792440665,
+  "checkInTime" : "17:00",
+  "name" : "Grand Hotel Italia",
+  "feedbacks" : [ ],
+  "id" : 2,
+  "longitude" : 23.606301
+}, {
+  "rooms" : [ {
+    "roomNumber" : 32,
+    "reservations" : [ ],
+    "price" : 410,
+    "type" : 2
+  }, {
+    "roomNumber" : 21,
+    "reservations" : [ ],
+    "price" : 350,
+    "type" : 2
+  }, {
+    "roomNumber" : 64,
+    "reservations" : [ ],
+    "price" : 300,
+    "type" : 3
+  } ],
+  "latitude" : 46.77539900854998,
+  "checkInTime" : "20:00",
+  "name" : "Hampton by Hilton",
+  "feedbacks" : [ ],
+  "id" : 3,
+  "longitude" : 23.60182699638966
+} ]
